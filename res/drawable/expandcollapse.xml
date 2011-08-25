@@ -1,0 +1,5 @@
+
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/alarm"></item>
+  <item android:drawable="@drawable/icon"></item>
+</transition>

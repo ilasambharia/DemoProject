@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	 android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<TextView android:id="@+id/txtCaption" android:text="Android Databases"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="#ff0000ff" android:textSize="20px"
+		android:textStyle="bold" />
+	<ScrollView android:id="@+id/ScrollView01"
+		android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<TextView android:id="@+id/txtMsg" android:text=""
+			android:layout_width="fill_parent" android:layout_height="wrap_content" />
+	</ScrollView>
+</LinearLayout>

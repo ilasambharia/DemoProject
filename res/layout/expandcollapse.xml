@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/main2LinLayout"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="#ff660000" android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<ImageView android:id="@+id/imgview" android:layout_width="251px"
+		android:layout_height="69px" android:text="Holathis is screen 2 -Layout:main2.xml">
+	</ImageView>
+</LinearLayout>

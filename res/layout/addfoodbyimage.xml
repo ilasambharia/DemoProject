@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+
+	
+	<SurfaceView android:id="@+id/surface_view"
+		android:layout_width="fill_parent" 
+		android:layout_above="@+id/idCameraButtonLayout"
+		android:layout_height="wrap_content">
+
+
+	</SurfaceView>
+	
+	<RelativeLayout android:layout_width="fill_parent"
+		android:padding="5dip"
+		android:layout_height="wrap_content" android:id="@+id/idCameraButtonLayout"
+		android:layout_alignParentBottom="true">
+		<Button  android:id="@+id/idBtnCapture"
+			android:layout_height="wrap_content" android:layout_width="wrap_content"
+			android:text="Capture" android:textSize="17dp"
+			android:textColor="@color/black" android:typeface="sans"
+			android:textStyle="normal" android:layout_centerInParent="true"></Button>
+
+	</RelativeLayout>
+	
+
+</RelativeLayout>

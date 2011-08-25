@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/myLinearLayout1"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="#ff000066" android:orientation="vertical"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<Button android:id="@+id/btnGo" android:layout_width="106px"
+		android:layout_height="61px" android:layout_margin="10px"
+		android:text=" Start ">
+	</Button>
+	<Button android:id="@+id/btnStop" android:layout_width="106px"
+		android:layout_height="61px" android:layout_margin="10px"
+		android:text=" Cancel ">
+	</Button>
+</LinearLayout>

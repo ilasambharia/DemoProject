@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, DemoActivity!</string>
+	<string name="app_name">Demo</string>
+		<string name="demo">Demo</string>
+			<string name="help">Help</string>
+			 <string name="set_alarm_text">Set Alarm</string>
+    <string name="alarm_message">Alarm Fired</string>
+</resources>
+

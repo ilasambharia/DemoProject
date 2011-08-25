@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <drawable name="red">#7f00</drawable>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>	
+	<drawable name="screen_background_black">#ff000000</drawable>
+    <drawable name="translucent_background">#e0000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+    
+    <color name="solid_black">#ff434547</color>
+    <color name="listbkcolor">#00b8ff</color>    
+ 	<color name="black">#000000</color>
+ 	<color name="white">#ffffff</color>
+ 	<color name="gray">#737373</color>
+ 	<color name="semi_black">#111111</color>
+ 	<color name="bluemode">#2a577f</color>
+ 	<color name="aliascolor">#e9e7e9</color>
+ 	<color name="aliascolor01">#c0c0c0</color>
+ 	<color name="locationtextcolor">#848284</color>
+ 	<color name="Moreoptioncolor">#2a577f</color>
+ 	<color name="DarkBlue">#f0f0f0</color>
+ 	<color name="Timecolor">#28322a</color>
+ 	<color name="IdentifyColor">#010101</color>
+ 	<color name="ClearAll">#454845</color>
+ 	<color name="Blue_Heading">#2a577f</color>
+ 	<color name="home_screen_blacktext">#858686</color>
+ 	<color name="home_screen_childrow">#0f3f6a</color>
+
+</resources>
