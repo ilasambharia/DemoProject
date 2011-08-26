@@ -7,13 +7,13 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-
+//check out change
 public class AlarmReceiver extends BroadcastReceiver {
  @Override
     public void onReceive(Context context, Intent intent) {
     	NotificationManager nm = (NotificationManager) context
         .getSystemService(Context.NOTIFICATION_SERVICE);
-      CharSequence from = "Alarm";
+      CharSequence from = "Alarm TIme";
       CharSequence message = "Alarm Fired";
       PendingIntent contentIntent = PendingIntent.getActivity(context, 0,
         new Intent(), 0);
