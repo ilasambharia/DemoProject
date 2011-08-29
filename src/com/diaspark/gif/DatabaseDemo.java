@@ -45,7 +45,7 @@ public class DatabaseDemo extends Activity {
 			useUpdateMethod();//use update method
 			useDeleteMethod();//use delete method*/
 			//db.close();//make sure to release the DB
-			Toast.makeText(this,"Alldone!",1).show();
+			Toast.makeText(this,"Alldone changes!",1).show();
 			} catch(Exception e) {
 			Toast.makeText(this,e.getMessage(),1).show();
 			}

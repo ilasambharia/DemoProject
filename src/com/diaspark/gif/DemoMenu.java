@@ -55,7 +55,7 @@ public class DemoMenu extends Activity implements OnItemClickListener, TextWatch
 	TextView lblDateAndTime;
 	Calendar myCalendar = Calendar.getInstance();
 	private static final String[] DATA = { "Apple", "Banana", "Milk", "Egg",
-		"Water", "Shake", "Bread", "Meat" };
+		"Water", "Shake", "Bread", "Grapes" };
 	
 	String[] items = { "apple", "apple1", "apple3",
 			"apple4", "apple5", "hello", "ello" };
